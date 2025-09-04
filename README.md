@@ -6,7 +6,7 @@
 
 # BLOCKCHAIN-IN-JAVA
 
-<em>Empowering Secure, Trustworthy Digital Transactions Everywhere</em>
+<em>Secure, Trustworthy Digital Transactions Powered by Innovation</em>
 
 <!-- BADGES -->
 <img src="https://img.shields.io/github/last-commit/Garvit2504/Blockchain-In-Java?style=flat&logo=git&logoColor=white&color=0080ff" alt="last-commit">
@@ -15,6 +15,7 @@
 
 <em>Built with the tools and technologies:</em>
 
+<img src="https://img.shields.io/badge/Markdown-000000.svg?style=flat&logo=Markdown&logoColor=white" alt="Markdown">
 
 </div>
 <br>
@@ -34,17 +35,17 @@
 
 ## Overview
 
-Blockchain-In-Java is a lightweight, extensible library that empowers developers to build and manage secure blockchain systems with ease. It provides core functionalities for creating, validating, and serializing blockchain data, making it ideal for educational projects, prototypes, or production-ready applications.
+Blockchain-In-Java is a versatile library that provides core functionalities for creating, validating, and managing secure blockchain data within Java applications. It facilitates data integrity through cryptographic hashing, supports block validation, and enables serialization for interoperability, serving as a solid foundation for building blockchain systems.
 
 **Why Blockchain-In-Java?**
 
-This project simplifies blockchain development by offering robust tools for data integrity, consensus, and secure storage. The core features include:
+This project aims to simplify the development of secure blockchain solutions. The core features include:
 
-- 🧩 **🔒 Cryptographic Hashing & Data Integrity:** Ensures tamper-proof data through secure hash functions and validation mechanisms.
-- 🛠️ **🔧 Core Blockchain Management:** Manages block sequences, validates chain integrity, and supports block mining.
-- 📜 **📝 Serialization & JSON Output:** Facilitates easy data export and interoperability with external systems.
-- ⚙️ **⚡ Proof-of-Work & Mining:** Implements fundamental consensus mechanisms to secure the network.
-- 🧱 **🏗️ Modular Block Structure:** Defines flexible block components for transaction data, timestamps, and cryptographic linkage.
+- 🛠️ **Cryptographic Utilities:** Secure hashing, digital signatures, and key encoding to ensure data integrity and authenticity.
+- 🔗 **Blockchain Management:** Creation, validation, and linking of blocks to maintain a tamper-resistant ledger.
+- 💾 **Transaction Handling:** Structures for inputs, outputs, and UTXOs to facilitate secure value transfers.
+- 🔒 **Wallet Support:** Key management, transaction signing, and balance tracking for user interactions.
+- ⚙️ **Serialization & Data Integrity:** JSON formatting and Merkle root calculations for interoperability and verification.
 
 ---
 
